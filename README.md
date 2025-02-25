@@ -1,6 +1,6 @@
 ## Olá, eu sou a Letícia Oliveira! 👋
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** | UNIPE 🎓  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** | UNIP  🎓  
 🚀 Apaixonada por tecnologia e desenvolvimento back-end  
 📊 Explorando **C#, SQL, Python e Análise de Dados**  
 
